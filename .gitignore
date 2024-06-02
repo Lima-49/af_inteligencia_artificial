@@ -1,3 +1,5 @@
 venv
 .kaggle
 db
+exFiles
+exIA05_classificacao_BoW_embedding_sol.ipynb
